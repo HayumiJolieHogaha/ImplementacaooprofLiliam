@@ -1,4 +1,4 @@
-oot{
+ot{
     --cor-fundo: #01080E;
     --cor-principal: #0B0D20 ;
     --cor-secundaria: #212333;
@@ -31,7 +31,7 @@ h1{
     padding-bottom: 10px;
 }
 
-oot{
+root{
     --cor-fundo: #01080E;
     --cor-principal: #0B0D20 ;
     --cor-secundaria: #212333;
@@ -52,3 +52,4 @@ button:hover{
     background-color: var(--cor-destaque);
     color: var(--cor-principal);
 }
+
